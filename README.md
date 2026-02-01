@@ -53,7 +53,11 @@ new_byte = 17 00 00 00 00 00 2A
 ## Install
 
 - Download Python>=v3.10.x
-- Clone https://github.com/xor5/tbplus-injector.git into this directory.
+```
+git clone https://github.com/Faiz3/TablePlus-Injector.git
+cd TablePlus-Injector
+```
+- Clone https://github.com/xor5/tbplus-injector.git into this directory TablePlus-Injector.
 ```
 git clone https://github.com/xor5/tbplus-injector.git
 ```
