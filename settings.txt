@@ -1,0 +1,1 @@
+targetpath=C:/Program Files/TablePlus\TablePlus.exe
