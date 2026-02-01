@@ -55,7 +55,7 @@ Run in the terminal:
 python main.py
 ```
 
-Or you can download the executable file [TBPlusInjector-Setup](https://github.com/xor5/tbplus-injector/releases/tag/v1.0.)
+Or you can download the executable file [TBPlusInjector-Setup](https://github.com/xor5/tbplus-injector/releases/tag/v1.0.0)
 
 ## System Requirements
 
